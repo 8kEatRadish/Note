@@ -2,13 +2,17 @@
 
 > **此仓库目的**：构建自己的知识体系笔记，清楚自己的知识边界，知道自己的知识盲区，从而更提升自己的学习效率。
 
-## [计算机基础](https://github.com/8kEatRadish/Note/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80.md)
+## [计算机基础](https://github.com/8kEatRadish/Note/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80)
 
 > **目标导图**
 
 <div style="align: center">
   <img src="https://raw.githubusercontent.com/8kEatRadish/Note/master/images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80.png"/>
 </div>
+- [**操作系统基本功能**](https://github.com/8kEatRadish/Note/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80.md#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD)
+  - [进程管理](https://github.com/8kEatRadish/Note/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80.md#%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86)
+  - [处理机调度与死锁](https://github.com/8kEatRadish/Note/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80.md#%E5%A4%84%E7%90%86%E6%9C%BA%E8%B0%83%E5%BA%A6%E4%B8%8E%E6%AD%BB%E9%94%81)
+
 ## [Java基础](https://github.com/8kEatRadish/Note/blob/master/docs/Java%E5%9F%BA%E7%A1%80.md)
 
 > **目标导图**
